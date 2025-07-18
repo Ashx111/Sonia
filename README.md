@@ -1,9 +1,18 @@
 # 🤖 Sonia: Your Personal AI Soft Skills Coach
 
-Meet **Sonia**, a conversational AI assistant designed to help you master the art of communication. Built with Python, Sonia listens to you speak, provides real-time feedback on your grammar and tone, and helps you practice your soft skills in a dynamic and interactive way.
-
-![Sonia in Action](assets/sonia.gif)
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+       <div align="center">
+      <img src="assets/sonia.gif" alt="Sonia in Action" width="80%">
+       </div>
+    </td>
+    <td width="60%" valign="top">
+      <p>
+        Meet <strong>Sonia</strong>, a conversational AI assistant designed to help you master the art of communication. Built with Python, Sonia listens to you speak, provides real-time feedback on your grammar and tone, and helps you practice your soft skills in a dynamic and interactive way.
+      </p>
+  </tr>
+</table>
 ---
 
 ## ✨ Core Features
